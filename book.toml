@@ -1,0 +1,6 @@
+[book]
+authors = ["Lao-tzu", "James Legge"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Tao-te Ching"
